@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append("/Users/danielmathison/Desktop/widgets")
+sys.path.append("/Users/danielmathison/twigs/widgets")
 
 from plane_calc import environment as env
 from plane_calc.PlaneCalc import Plane
